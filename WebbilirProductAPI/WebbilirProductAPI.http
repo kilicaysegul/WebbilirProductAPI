@@ -1,0 +1,6 @@
+@WebbilirProductAPI_HostAddress = http://localhost:5028
+
+GET {{WebbilirProductAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
