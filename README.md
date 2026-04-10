@@ -75,14 +75,6 @@ Uygulama çalıştıktan sonra Swagger arayüzüne aşağıdaki adresten erişeb
 
 ```
 https://localhost:XXXX/swagger/index.html
-```
-
----
-
-## 📌 Notlar
-
-- ⚠️ Proje aktif olarak geliştirilmektedir.  
-- 🤝 Katkıda bulunmak için Pull Request gönderebilirsiniz.  
 
 ---
 
